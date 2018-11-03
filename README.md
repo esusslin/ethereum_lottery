@@ -8,9 +8,9 @@ This application enables a manager to host a lottery held on the Ethereum networ
 ### Lottery Contract
 
 #### Variables
-* _manager_** - id of the boss
-* _players_** - ids of the pesants
+* **_manager_** - id of the boss
+* **_players_** - ids of the pesants
 
 #### Functions
-* _enter_** - submits a player into the lottery
-* _pickWinner_** - randomly picks the winner and distrubutes winnings
+* **_enter_** - submits a player into the lottery
+* **_pickWinner_** - randomly picks the winner and distrubutes winnings
